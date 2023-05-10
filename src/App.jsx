@@ -7,8 +7,8 @@ function App() {
 
   return (
     <Routes>
-      <Route path='/' element={<Select />} />
-      <Route path='/:name' element={<Game />} />
+      <Route path='/two-decks/' element={<Select />} />
+      <Route path='/two-decks/:name' element={<Game />} />
     </Routes>
   );
 }

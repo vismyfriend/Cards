@@ -1,7 +1,7 @@
 {
   "name": "two-decks",
   "version": "0.1.0",
-  "homepage": "http://Bababum95.github.io/two-decks",
+  "homepage": "https://vismyfriend.github.io/Cards/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

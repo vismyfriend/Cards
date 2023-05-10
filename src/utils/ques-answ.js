@@ -407,6 +407,13 @@ const questions = {
             ru: "	ездить, кататься на велике	",
             eng: "	ride a bicycle /бАйсикл/ 	"
         }
+    ],
+    'Test': [
+        {
+            id: 1,
+            ru: "	пить пиво	",
+            eng: "	drink beer /бир/	"
+        }
     ]
 }
 const answers = {
@@ -817,6 +824,13 @@ const answers = {
             id: 120,
             ru: "	дважды в месяц	",
             eng: "	twice a month	"
+        }
+    ],
+    'Test': [
+        {
+            id: 1,
+            ru: "	пить2 пиво2	",
+            eng: "	drink2 beer2 /бир/	"
         }
     ]
 }

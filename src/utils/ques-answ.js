@@ -306,7 +306,7 @@ const questions = {
             eng: "	find money in the street	"
         },
     ],
-    Howoftendoyou : [
+    'How often do you': [
         {
             id: 1,
             ru: "	пить воду	",
@@ -717,7 +717,7 @@ const answers = {
             eng: "	an elephant	"
         }
     ],
-    Howoftendoyou : [
+    'How often do you': [
         {
             id: 101,
             ru: "	каждый день	",

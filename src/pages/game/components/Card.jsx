@@ -1,7 +1,11 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 
 function Card({ classes, value }) {
   const [hint, setHint] = useState(false)
+
+  useEffect(() => {
+    setHint(false)
+  }, [value])
 
   return (
     <div className={classes}>

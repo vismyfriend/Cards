@@ -7,7 +7,7 @@ function Select() {
   return (
     <ul className={styles.list}>
       {Object.keys(questions).map(name => (
-        <NavLink key={name} to={`/two-decks/${name}`}>
+        <NavLink key={name} to={`/${name}`}>
           <li className={styles.item}>{name}</li>
         </NavLink>
       ))}

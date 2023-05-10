@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/two-decks/static/css/main.2f72ca68.css",
+    "main.js": "/two-decks/static/js/main.c190e031.js",
+    "static/media/cards.png": "/two-decks/static/media/cards.85f9cab69c8ff8d42a3e.png",
+    "static/media/card.png": "/two-decks/static/media/card.814372d678a029b0f0b1.png",
+    "index.html": "/two-decks/index.html",
+    "main.2f72ca68.css.map": "/two-decks/static/css/main.2f72ca68.css.map",
+    "main.c190e031.js.map": "/two-decks/static/js/main.c190e031.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2f72ca68.css",
+    "static/js/main.c190e031.js"
+  ]
+}

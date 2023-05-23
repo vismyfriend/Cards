@@ -411,10 +411,28 @@ const questions = {
     'Test': [
         {
             id: 1,
-            ru: "	пить пиво	",
-            eng: "	drink beer /бир/	"
+            ru: "	Ты видишь это?1	",
+            eng: "	Do you see this?2	"
+        },
+        {
+            id: 2,
+            ru: "	Это карта номер 1	",
+            eng: "	Do you see this?2	"
+        }
+    ],
+    'Questions': [
+        {
+            id: 1,
+            ru: "	Ты сегодня отлично выглядишь!",
+            eng: "	You look great today!"
+        },
+        {
+            id: 2,
+            ru: "	Ты сегодня отлично выглядишь!!",
+            eng: "	You look great today!"
         }
     ]
+    
 }
 const answers = {
     'Who does what at what time': [
@@ -828,9 +846,26 @@ const answers = {
     ],
     'Test': [
         {
-            id: 1,
-            ru: "	пить2 пиво2	",
-            eng: "	drink2 beer2 /бир/	"
+            id: 101,
+            ru: "	Ты видишь это?2	",
+            eng: "	Do you see this?2	"
+        },
+        {
+            id: 102,
+            ru: "	Это карта номер 1	",
+            eng: "	Do you see this?2	"
+        }
+    ],
+    'Questions': [
+        {
+            id: 101,
+            ru: "	Ты сегодня отлично выглядишь!",
+            eng: "	You look great today!"
+        },
+        {
+            id: 102,
+            ru: "	Ты сегодня отлично выглядишь!!",
+            eng: "	You look great today!!"
         }
     ]
 }
